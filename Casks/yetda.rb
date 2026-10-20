@@ -1,11 +1,11 @@
 cask "yetda" do
-  version "0.3.2"
-  sha256 "bdc677308ed94308b7aea4fc6e2bf7d9d9cf78a77c100862e3913096102436a4"
+  version "0.3.3"
+  sha256 "4536d3a94f11154cce942343da7a43594d26b99746995ead7bbe44c6d724d697"
 
   url "https://github.com/woonmayer/homebrew-tap/releases/download/v#{version}/Yetda-#{version}.dmg"
   name "Yetda"
-  desc "Menu bar app that drops screenshots straight into terminal coding agents"
-  homepage "https://woonmayer.github.io/yetda/"
+  desc "Puts screenshots into coding agents, with secrets masked first"
+  homepage "https://yetda.app/"
 
   livecheck do
     url :url
