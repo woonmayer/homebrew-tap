@@ -1,6 +1,6 @@
 cask "yetda" do
-  version "0.3.4"
-  sha256 "a9c77577e7a77b7f1f1ee853ec5ab7c21ee3e01271331417b30885dd682149c4"
+  version "0.3.5"
+  sha256 "eadaaf9a192a8e709950431e055cfe9350b54cb09ff7f26209f250536c303145"
 
   url "https://github.com/woonmayer/homebrew-tap/releases/download/v#{version}/Yetda-#{version}.dmg"
   name "Yetda"
